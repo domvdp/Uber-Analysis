@@ -1,4 +1,4 @@
-# Uber Trip Analysis
+# Uber 2014 Trip Data Analysis
 This project analyses multiple sets of data (from the year 2014) containing the location of Uber vehicles at different times and dates. These datasets include useful information such as the longitude and latitude of each vehicle when picking up a customer.
 
 The data will need to be manipulated in such a way that allows for this type of analysis.
